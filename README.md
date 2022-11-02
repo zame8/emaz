@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EmazHassan
-- 👀 I’m interested in everthing related to ones and zeros
-- 🌱 I’m currently a Computer Science student at University of Hertfordshire
-- 💞️ I’m looking to collaborate on anything that is open source
-- 📫 How to reach me: emaz@mail.com
+- 👋 Hi, I’m @EmazCO
+- 👀 I’m interested in everything tech
+- 🌱 I’m currently learning Backend development (Java)
+- 💞️ I’m looking to collaborate on projects that involve automation
+- 📫 How to reach me emaz@mail.com
 
 <!---
 EmazHassan/EmazHassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
