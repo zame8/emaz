@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmazCO
+- 👋 Hi, I’m Emaz
 - 👀 I’m interested in everything tech
 - 🌱 I’m currently learning Backend development (Java)
 - 💞️ I’m looking to collaborate on projects that involve automation
